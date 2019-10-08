@@ -1,0 +1,5 @@
+install:
+  - jq:
+      description: "Invalid Input Test Case"
+      args:
+      - yarrrr
